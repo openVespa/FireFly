@@ -1,0 +1,14 @@
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\WFF GenericHID Demo Application.exe
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\WFF GenericHID Demo Application.pdb
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\Instruments.dll
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\WFF GenericHID Communication Library.dll
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\Instruments.pdb
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\Instruments.xml
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\bin\Release\WFF GenericHID Communication Library.pdb
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\WFF_GenericHID_Demo_Application.mainForm.resources
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\WFF_GenericHID_Demo_Application.Properties.Resources.resources
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\GenerateResource.read.1.tlog
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\GenerateResource.write.1.tlog
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\WFF GenericHID Demo Application.exe
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Demo Application\obj\x86\Release\WFF GenericHID Demo Application.pdb

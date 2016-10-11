@@ -1,0 +1,12 @@
+﻿                   // Potentiometer (covert 2 bytes to 16 bit integer)
+                //deviceState.potState = (inputBuffer[6] << 8) + inputBuffer[7];
+   
+   
+   
+   
+   
+            // Set the packet data according to the local LED status
+           // if (deviceState.LOG_LED_State == true) outputBuffer[1] = 1; else outputBuffer[1] = 0;
+            // Perform the write command
+            //bool success;
+            //success = writeSingleReportToDevice(outputBuffer);

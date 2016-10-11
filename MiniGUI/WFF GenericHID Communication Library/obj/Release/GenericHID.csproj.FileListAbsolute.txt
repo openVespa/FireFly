@@ -1,0 +1,20 @@
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.dll
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.pdb
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\obj\Release\ResolveAssemblyReference.cache
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.dll
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.pdb
+C:\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.dll
+C:\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.pdb
+C:\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\obj\Release\ResolveAssemblyReference.cache
+C:\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.dll
+C:\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.pdb
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.dll
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.pdb
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\obj\Release\ResolveAssemblyReference.cache
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.dll
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_GUI\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.pdb
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_FF_MINI\MiniGUI\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.dll
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_FF_MINI\MiniGUI\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.pdb
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_FF_MINI\MiniGUI\WFF GenericHID Communication Library\obj\Release\ResolveAssemblyReference.cache
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_FF_MINI\MiniGUI\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.dll
+C:\BROOKS\CDI\2013_LUFA_FF\LUFA_FF_MINI\MiniGUI\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.pdb
