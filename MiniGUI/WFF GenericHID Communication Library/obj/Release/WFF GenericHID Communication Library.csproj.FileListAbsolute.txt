@@ -1,0 +1,10 @@
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.dll
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.pdb
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Communication Library\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.dll
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Generic HID 4_0\WFF GenericHID Test Application\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.pdb
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.dll
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\bin\Release\WFF GenericHID Communication Library.pdb
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\obj\Release\ResolveAssemblyReference.cache
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.dll
+C:\AVR\AVR_Studio6\Projects\WFF_Test\WFF Generic HID Framework 4_0 AVR\VS 2010\WFF GenericHID Demo Application\WFF GenericHID Communication Library\obj\Release\WFF GenericHID Communication Library.pdb
